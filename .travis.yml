@@ -16,3 +16,4 @@ deploy:
   keep-history: true
   on:
     branch: sources
+  # githubblog in cloud setting 1
