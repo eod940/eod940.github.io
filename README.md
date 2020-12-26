@@ -9,5 +9,5 @@ Theme from [bitbrain](https://github.com/bitbrain).
 [![Gem](https://img.shields.io/gem/v/jekyll-dash.svg?style=flat)](http://rubygems.org/gems/jekyll-dash "View this project in Rubygems")
 [![Downloads](https://ruby-gem-downloads-badge.herokuapp.com/jekyll-dash)](https://rubygems.org/gems/jekyll-dash "Number of Gem downloads")
 ---
-> 폭발은 예술이다.
+> 폭발은 예술이다.  
 혼자 이것저것 만져보다 터뜨리고 다시 만들었습니다. repo 터뜨리면 잔디심은거 싹다 날라가는지 처음 알았습니다.
