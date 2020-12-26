@@ -1,0 +1,18 @@
+language: ruby
+cache: bundler
+branches:
+  only:
+  - main
+before_install:
+- gem install bundler
+script:
+  - JEKYLL_ENV=production bundle exec jekyll build
+deploy:
+  provider: pages
+  local-dir: ./_site
+  target-branch: main
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: sources
