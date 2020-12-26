@@ -3,8 +3,8 @@ cache: bundler
 # branches:
 #   only:
 #   - main
-# before_install:
-# - gem install bundler
+before_install:
+- gem install bundler
 script:
   - JEKYLL_ENV=production bundle exec jekyll build
 deploy:
