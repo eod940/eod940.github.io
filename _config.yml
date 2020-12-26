@@ -27,9 +27,9 @@ dash:
     # - url: https://twitter.com/bitbrain_
     #   icon: twitter-square
     #   color: cyan
-    # - url: https://bitbrain.itch.io
-    #   icon: itch-io
-    #   color: red
+    - url: https://soundcloud.app.goo.gl/52VzE
+      icon: soundcloud
+      color: orange
     - url: https://github.com/eod940
       icon: github-square
       color: purple
