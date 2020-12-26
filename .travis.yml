@@ -1,8 +1,8 @@
 language: ruby
 cache: bundler
-branches:
-  only:
-  - main
+# branches:
+#   only:
+#   - main
 before_install:
 - gem install bundler
 script:
