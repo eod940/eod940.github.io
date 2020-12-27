@@ -6,7 +6,8 @@ cache: bundler
 before_install:
 - bundle install
 script:
-  - JEKYLL_ENV=production bundle exec jekyll build
+  #- JEKYLL_ENV=production bundle exec jekyll build
+  - bundle exec jekyll build
 deploy:
   provider: pages
   local-dir: ./_site
