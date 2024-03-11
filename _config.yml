@@ -49,5 +49,5 @@ plugins:
  - jekyll/tagging
 
 # Replaces the default avatar provider (gravatar)
-avatar_source: github
+avatar_source: gravatar  # github로 설정시 github 사진이 나옴
 github_username: eod940
